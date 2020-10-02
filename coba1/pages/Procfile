@@ -1,0 +1,1 @@
+web: gunicorn coba1.wsgi
